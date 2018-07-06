@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="Limits-service"/>
+<aop-project name="CurrencyConversionService"/>
+<aop-project name="CurrencyExchangeService"/>
+<aop-project name="Spring-cloud-config-server"/>
+<aop-project name="EurekaNamingServer"/>
+<aop-project name="ZuulGatewayServer"/>
+</aop-reference-model>
